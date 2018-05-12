@@ -1,0 +1,44 @@
+_repo: Memlinc_42876
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42876-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Weale, J. Cyril M. (James Cyril M.)
+    alias: Weale, James Cyril M.
+    gutenberg_agent_id: '41372'
+    url: http://www.gutenberg.org/2009/agents/41372
+  - agent_name: Weale, W. H. James (William Henry James)
+    aliases:
+    - Weale, James
+    - Weale, William Henry James
+    birthdate: 1832
+    deathdate: 1917
+    gutenberg_agent_id: '41898'
+    url: http://www.gutenberg.org/2009/agents/41898
+  editor:
+    agent_name: Hare, T. Leman (Thomas Leman)
+    aliases:
+    - Hare, T. L. (Thomas Leman)
+    - Hare, Thomas Leman
+    birthdate: 1872
+    deathdate: 1935
+    gutenberg_agent_id: '41203'
+    url: http://www.gutenberg.org/2009/agents/41203
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2013-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42876'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in Colour
+subjects:
+- !lcc 'ND'
+- !lcsh 'Memling, Hans, 1430?-1494'
+title: Memlinc
+url: http://www.gutenberg.org/ebooks/42876
